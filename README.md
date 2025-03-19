@@ -1,4 +1,4 @@
-Deployed Link -
+Deployed Link -  https://1-memories-1.netlify.app/posts
 
 Project Overview
 
